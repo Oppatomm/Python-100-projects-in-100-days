@@ -1,0 +1,5 @@
+name = input("Name : ")
+curyear = input("Current year (AD) : ")
+yearofbirth = input("Year of birth (AD) : ")
+x = int(curyear) - int(yearofbirth) 
+print(name + " age is " + str(x) + " years")
