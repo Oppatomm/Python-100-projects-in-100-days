@@ -1,3 +1,4 @@
+print("=== BMI calculation program ===")
 height = int(input("Height : "))
 weight = int(input("Weight : "))
 cm_convert_m = height / 100
