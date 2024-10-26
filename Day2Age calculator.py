@@ -1,3 +1,4 @@
+print("=== Age calculator ===")
 name = input("Name : ")
 curyear = input("Current year (AD) : ")
 yearofbirth = input("Year of birth (AD) : ")
