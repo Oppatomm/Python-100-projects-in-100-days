@@ -1,3 +1,4 @@
+print("=== Basic calculator ===")
 choose =  int(input("Please choose your choice.\n"
                     "1 means addition (+)\n"
                     "2 means subtraction (-)\n"
