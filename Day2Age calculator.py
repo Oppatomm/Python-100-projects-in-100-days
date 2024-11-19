@@ -1,6 +1,6 @@
 print("=== Age calculator ===")
 name = input("Name : ")
 curyear = input("Current year (AD) : ")
-yearofbirth = input("Year of birth (AD) : ")
+yearofbirth = input("birth year (AD) : ")
 x = int(curyear) - int(yearofbirth) 
 print(name + " age is " + str(x) + " years")
